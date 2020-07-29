@@ -3,7 +3,7 @@ import Routes from './routes';
 import './styles.css';
 
 import Header from './components/header';
-import Main from './pages/main';
+
 const App = () => (
   <div className="App">
       <Header />
